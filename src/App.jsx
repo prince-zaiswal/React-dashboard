@@ -49,7 +49,7 @@ function App() {
         <RiAccountPinBoxLine size={36} color='black' className='lg:hidden' />
     </div>
     <Routes>
-      <Route path='/' element={<Dashboard />} />
+      <Route path='/React-dashboard' element={<Dashboard />} />
       <Route path='/research/internal' element={<Internal />} />
       <Route path='/research/internal' element={<Internal />} />
       <Route path='/research/internal/b2b' element={<B2BInternal />} />
