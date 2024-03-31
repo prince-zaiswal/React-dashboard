@@ -10,7 +10,7 @@ const navlinks = [
   {
     name: 'Dashboard',
     icon: RiDashboardLine,
-    path: '/'
+    path: '/React-dashboard'
   },
   {
     name: 'Reaserch',
