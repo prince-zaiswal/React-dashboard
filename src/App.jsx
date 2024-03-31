@@ -63,7 +63,7 @@ function App() {
       <Route path='/designing/hardware' element={<Hardware />} />
       <Route path='/sales-marketing/online' element={<Online />} />
       <Route path='/sales-marketing/dealership' element={<Dealership />} />
-      <Route path="*" element={<Notfound />} />
+      <Route path="*" element={<Dashboard />} />
     </Routes>
     </main>
     </div>
