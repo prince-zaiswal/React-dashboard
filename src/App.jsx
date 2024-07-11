@@ -45,7 +45,7 @@ function App() {
     <main className='md:p-4 w-full rounded-md'>
     <div  className='flex rounded-md justify-between lg:justify-center items-center  p-3 mb-2 bg-white'>
         <div onClick={handleSidebar}  className='ease-in-out duration-500 lg:hidden '> <RiMenu2Line size={36} color='black' /></div>
-        <div className='font-semibold  text-lg '>Lizomotor</div>
+        <div className='font-semibold  text-lg '>Mercedes</div>
         <RiAccountPinBoxLine size={36} color='black' className='lg:hidden' />
     </div>
     <Routes>
