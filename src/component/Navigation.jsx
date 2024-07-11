@@ -72,7 +72,7 @@ function Navigation({openSidebar}) {
       <div className='text-gray-100 border-b border-dashed border-slate-500 p-5'>
         <div className=' flex items-center  rounded-md'>
           <div><img src={logo} alt="" height={50} width={50} className='h-auto max-w-full' /></div>
-          <h1 className='text-[20px]  ml-5 text-lg text-gray-200 font-bold'>Lizomotor</h1>
+          <h1 className='text-[20px]  ml-5 text-lg text-gray-200 font-bold'>Mercedes</h1>
 
          
         </div>
